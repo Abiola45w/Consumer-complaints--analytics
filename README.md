@@ -9,7 +9,7 @@ To explore complaint patterns and uncover insights about how financial products 
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop**
 - **DAX Measures** for calculated KPIs
 - **Data Cleaning:** Power Query Editor
@@ -17,7 +17,7 @@ To explore complaint patterns and uncover insights about how financial products 
 
 ---
 
-## 📈 Key Features
+## Key Features
 - Complaint trends over time
 - Top reported companies and products
 - Geographic distribution by U.S. states
@@ -26,7 +26,7 @@ To explore complaint patterns and uncover insights about how financial products 
 
 ---
 
-## 🔍 Insights & Findings
+## Insights & Findings
 - Complaints increased steadily from 2019 to 2024.
 - Credit and mortgage products account for 65%+ of complaints.
 - California and Texas reported the highest number of complaints.
@@ -34,11 +34,11 @@ To explore complaint patterns and uncover insights about how financial products 
   
 ---
 
-## 🧰 Author
+## Author
 **Joshua Ojumola**  
-📧 Email: [your.email@example.com]  
-🔗 LinkedIn: [linkedin.com/in/yourname](#)  
-🐙 GitHub: [github.com/yourusername](#)
+Email: [joshuaojumola@gmail.com]  
+LinkedIn: [https://www.linkedin.com/in/ojumola-adedeji-758471381/] 
+GitHub: [github.com/Abiola45w]
 
 ---
 
