@@ -1,12 +1,12 @@
-# 🧩 Consumer Complaints Analytics Dashboard
+# Consumer Complaints Analytics Dashboard
 
 An interactive **Power BI dashboard** analyzing trends in consumer financial complaints across products, issues, and geographies — built using data from the **Consumer Financial Protection Bureau (CFPB)**.
 
 
-## 🧭 Objective
+## Objective
 To explore complaint patterns and uncover insights about how financial products and companies handle consumer issues across the United States.
 
-## 📁 Files Included
+## Files Included
 | File | Description |
 |------|--------------|
 | `PowerBI_Report.pbix` | Power BI Dashboard  |
