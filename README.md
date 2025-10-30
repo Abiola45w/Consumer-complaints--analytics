@@ -6,7 +6,13 @@ An interactive **Power BI dashboard** analyzing trends in consumer financial com
 ## 🧭 Objective
 To explore complaint patterns and uncover insights about how financial products and companies handle consumer issues across the United States.
 
-## 📊 Dashboard Preview
+## 📁 Files Included
+| File | Description |
+|------|--------------|
+| `PowerBI_Report.pbix` | Power BI Dashboard  |
+| `PowerPoint_Report.pptx` | Slide version of the dashboard with insights |
+| `Dashboard_Preview.png` | Screenshot preview for the portfolio |
+| `cleaned version datadna dataset challenge `| Consumer-complaints-dataset 
 
 
 ## Tools & Technologies
@@ -23,15 +29,13 @@ To explore complaint patterns and uncover insights about how financial products 
 - Complaint resolution analysis
 - Company performance KPIs
 
----
 
 ## Insights & Findings
 - Complaints increased steadily from 2019 to 2024.
 - Credit and mortgage products account for 65%+ of complaints.
 - California and Texas reported the highest number of complaints.
 - Resolution rates vary significantly between companies.
-  
----
+
 
 ## Author
 **Joshua Ojumola**  
@@ -39,8 +43,11 @@ Email: [joshuaojumola@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/ojumola-adedeji-758471381/] 
 GitHub: [http://www.github.com/Abiola45w]
 
----
 
-## 🏁 Summary
-This project demonstrates data storytelling, dashboard design, and analytical insights using Power BI.  
-It was created to enhance portfolio presentation for data analysis and visualization roles.
+## Summary
+The Consumer Complaints Dashboard demonstrates my end-to-end data analytics workflow — from data cleaning and transformation to visualization and insight communication.  
+It reflects my attention to design, business reasoning, and storytelling in Power BI.
+
+I’m continuously expanding my portfolio with more analytics and machine learning projects.  
+ Let’s connect on LinkedIn: [https://www.linkedin.com/in/ojumola-adedeji-758471381/] 
+ or GitHub: [http://www.github.com/Abiola45w] to collaborate or discuss data solutions
