@@ -11,7 +11,6 @@ To explore complaint patterns and uncover insights about how financial products 
 |------|--------------|
 | `PowerBI_Report.pbix` | Power BI Dashboard  |
 | `PowerPoint_Report.pptx` | Slide version of the dashboard with insights |
-| `Dashboard_Preview.png` | Screenshot preview for the portfolio |
 | `cleaned version datadna dataset challenge `| Consumer-complaints-dataset 
 
 
