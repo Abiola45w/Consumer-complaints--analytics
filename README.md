@@ -39,7 +39,7 @@ To explore complaint patterns and uncover insights about how financial products 
 ## Author
 **Joshua Ojumola**  
 Email: [joshuaojumola@gmail.com]  
-LinkedIn: [https://www.linkedin.com/in/ojumola-adedeji-758471381/] 
+LinkedIn: [https://www.linkedin.com/in/ojumola-adedeji-758471381/]
 GitHub: [http://www.github.com/Abiola45w]
 
 
